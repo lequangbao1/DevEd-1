@@ -45,3 +45,10 @@ nav {
     text-decoration: none;
     color: #5f5f79;
 }
+
+.presentation {
+    display: flex;
+}
+.cover img {
+    height: 60vh;
+}
